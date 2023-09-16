@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding\\ForUni\\IntroToProgramming\\Seventh\\Seventh\\Seventh.csproj": {}
+    "D:\\Coding\\ForUni\\IntroToProgramming\\6.Seventh\\Seventh\\Seventh.csproj": {}
   },
   "projects": {
-    "D:\\Coding\\ForUni\\IntroToProgramming\\Seventh\\Seventh\\Seventh.csproj": {
+    "D:\\Coding\\ForUni\\IntroToProgramming\\6.Seventh\\Seventh\\Seventh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding\\ForUni\\IntroToProgramming\\Seventh\\Seventh\\Seventh.csproj",
+        "projectUniqueName": "D:\\Coding\\ForUni\\IntroToProgramming\\6.Seventh\\Seventh\\Seventh.csproj",
         "projectName": "Seventh",
-        "projectPath": "D:\\Coding\\ForUni\\IntroToProgramming\\Seventh\\Seventh\\Seventh.csproj",
+        "projectPath": "D:\\Coding\\ForUni\\IntroToProgramming\\6.Seventh\\Seventh\\Seventh.csproj",
         "packagesPath": "C:\\Users\\GRIGS\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding\\ForUni\\IntroToProgramming\\Seventh\\Seventh\\obj\\",
+        "outputPath": "D:\\Coding\\ForUni\\IntroToProgramming\\6.Seventh\\Seventh\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GRIGS\\AppData\\Roaming\\NuGet\\NuGet.Config",

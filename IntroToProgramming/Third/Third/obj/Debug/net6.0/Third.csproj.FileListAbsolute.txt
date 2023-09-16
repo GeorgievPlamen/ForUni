@@ -1,0 +1,14 @@
+D:\Coding\ForUni\IntroToProgramming\Third\Third\bin\Debug\net6.0\Third.exe
+D:\Coding\ForUni\IntroToProgramming\Third\Third\bin\Debug\net6.0\Third.deps.json
+D:\Coding\ForUni\IntroToProgramming\Third\Third\bin\Debug\net6.0\Third.runtimeconfig.json
+D:\Coding\ForUni\IntroToProgramming\Third\Third\bin\Debug\net6.0\Third.dll
+D:\Coding\ForUni\IntroToProgramming\Third\Third\bin\Debug\net6.0\Third.pdb
+D:\Coding\ForUni\IntroToProgramming\Third\Third\obj\Debug\net6.0\Third.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ForUni\IntroToProgramming\Third\Third\obj\Debug\net6.0\Third.AssemblyInfoInputs.cache
+D:\Coding\ForUni\IntroToProgramming\Third\Third\obj\Debug\net6.0\Third.AssemblyInfo.cs
+D:\Coding\ForUni\IntroToProgramming\Third\Third\obj\Debug\net6.0\Third.csproj.CoreCompileInputs.cache
+D:\Coding\ForUni\IntroToProgramming\Third\Third\obj\Debug\net6.0\Third.dll
+D:\Coding\ForUni\IntroToProgramming\Third\Third\obj\Debug\net6.0\refint\Third.dll
+D:\Coding\ForUni\IntroToProgramming\Third\Third\obj\Debug\net6.0\Third.pdb
+D:\Coding\ForUni\IntroToProgramming\Third\Third\obj\Debug\net6.0\Third.genruntimeconfig.cache
+D:\Coding\ForUni\IntroToProgramming\Third\Third\obj\Debug\net6.0\ref\Third.dll

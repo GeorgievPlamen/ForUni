@@ -1,0 +1,14 @@
+D:\Coding\ForUni\IntroToProgramming\Sixth\Sixth\bin\Debug\net6.0\Sixth.exe
+D:\Coding\ForUni\IntroToProgramming\Sixth\Sixth\bin\Debug\net6.0\Sixth.deps.json
+D:\Coding\ForUni\IntroToProgramming\Sixth\Sixth\bin\Debug\net6.0\Sixth.runtimeconfig.json
+D:\Coding\ForUni\IntroToProgramming\Sixth\Sixth\bin\Debug\net6.0\Sixth.dll
+D:\Coding\ForUni\IntroToProgramming\Sixth\Sixth\bin\Debug\net6.0\Sixth.pdb
+D:\Coding\ForUni\IntroToProgramming\Sixth\Sixth\obj\Debug\net6.0\Sixth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ForUni\IntroToProgramming\Sixth\Sixth\obj\Debug\net6.0\Sixth.AssemblyInfoInputs.cache
+D:\Coding\ForUni\IntroToProgramming\Sixth\Sixth\obj\Debug\net6.0\Sixth.AssemblyInfo.cs
+D:\Coding\ForUni\IntroToProgramming\Sixth\Sixth\obj\Debug\net6.0\Sixth.csproj.CoreCompileInputs.cache
+D:\Coding\ForUni\IntroToProgramming\Sixth\Sixth\obj\Debug\net6.0\Sixth.dll
+D:\Coding\ForUni\IntroToProgramming\Sixth\Sixth\obj\Debug\net6.0\refint\Sixth.dll
+D:\Coding\ForUni\IntroToProgramming\Sixth\Sixth\obj\Debug\net6.0\Sixth.pdb
+D:\Coding\ForUni\IntroToProgramming\Sixth\Sixth\obj\Debug\net6.0\Sixth.genruntimeconfig.cache
+D:\Coding\ForUni\IntroToProgramming\Sixth\Sixth\obj\Debug\net6.0\ref\Sixth.dll

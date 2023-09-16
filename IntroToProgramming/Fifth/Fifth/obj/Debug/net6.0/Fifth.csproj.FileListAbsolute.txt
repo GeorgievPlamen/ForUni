@@ -1,0 +1,14 @@
+D:\Coding\ForUni\IntroToProgramming\Fifth\Fifth\bin\Debug\net6.0\Fifth.exe
+D:\Coding\ForUni\IntroToProgramming\Fifth\Fifth\bin\Debug\net6.0\Fifth.deps.json
+D:\Coding\ForUni\IntroToProgramming\Fifth\Fifth\bin\Debug\net6.0\Fifth.runtimeconfig.json
+D:\Coding\ForUni\IntroToProgramming\Fifth\Fifth\bin\Debug\net6.0\Fifth.dll
+D:\Coding\ForUni\IntroToProgramming\Fifth\Fifth\bin\Debug\net6.0\Fifth.pdb
+D:\Coding\ForUni\IntroToProgramming\Fifth\Fifth\obj\Debug\net6.0\Fifth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ForUni\IntroToProgramming\Fifth\Fifth\obj\Debug\net6.0\Fifth.AssemblyInfoInputs.cache
+D:\Coding\ForUni\IntroToProgramming\Fifth\Fifth\obj\Debug\net6.0\Fifth.AssemblyInfo.cs
+D:\Coding\ForUni\IntroToProgramming\Fifth\Fifth\obj\Debug\net6.0\Fifth.csproj.CoreCompileInputs.cache
+D:\Coding\ForUni\IntroToProgramming\Fifth\Fifth\obj\Debug\net6.0\Fifth.dll
+D:\Coding\ForUni\IntroToProgramming\Fifth\Fifth\obj\Debug\net6.0\refint\Fifth.dll
+D:\Coding\ForUni\IntroToProgramming\Fifth\Fifth\obj\Debug\net6.0\Fifth.pdb
+D:\Coding\ForUni\IntroToProgramming\Fifth\Fifth\obj\Debug\net6.0\Fifth.genruntimeconfig.cache
+D:\Coding\ForUni\IntroToProgramming\Fifth\Fifth\obj\Debug\net6.0\ref\Fifth.dll

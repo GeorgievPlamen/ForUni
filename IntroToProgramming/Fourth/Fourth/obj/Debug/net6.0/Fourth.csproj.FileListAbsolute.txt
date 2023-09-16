@@ -1,0 +1,14 @@
+D:\Coding\ForUni\IntroToProgramming\Fourth\Fourth\bin\Debug\net6.0\Fourth.exe
+D:\Coding\ForUni\IntroToProgramming\Fourth\Fourth\bin\Debug\net6.0\Fourth.deps.json
+D:\Coding\ForUni\IntroToProgramming\Fourth\Fourth\bin\Debug\net6.0\Fourth.runtimeconfig.json
+D:\Coding\ForUni\IntroToProgramming\Fourth\Fourth\bin\Debug\net6.0\Fourth.dll
+D:\Coding\ForUni\IntroToProgramming\Fourth\Fourth\bin\Debug\net6.0\Fourth.pdb
+D:\Coding\ForUni\IntroToProgramming\Fourth\Fourth\obj\Debug\net6.0\Fourth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ForUni\IntroToProgramming\Fourth\Fourth\obj\Debug\net6.0\Fourth.AssemblyInfoInputs.cache
+D:\Coding\ForUni\IntroToProgramming\Fourth\Fourth\obj\Debug\net6.0\Fourth.AssemblyInfo.cs
+D:\Coding\ForUni\IntroToProgramming\Fourth\Fourth\obj\Debug\net6.0\Fourth.csproj.CoreCompileInputs.cache
+D:\Coding\ForUni\IntroToProgramming\Fourth\Fourth\obj\Debug\net6.0\Fourth.dll
+D:\Coding\ForUni\IntroToProgramming\Fourth\Fourth\obj\Debug\net6.0\refint\Fourth.dll
+D:\Coding\ForUni\IntroToProgramming\Fourth\Fourth\obj\Debug\net6.0\Fourth.pdb
+D:\Coding\ForUni\IntroToProgramming\Fourth\Fourth\obj\Debug\net6.0\Fourth.genruntimeconfig.cache
+D:\Coding\ForUni\IntroToProgramming\Fourth\Fourth\obj\Debug\net6.0\ref\Fourth.dll

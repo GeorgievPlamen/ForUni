@@ -1,0 +1,14 @@
+D:\Coding\ForUni\IntroToProgramming\Second\Second\bin\Debug\net6.0\Second.exe
+D:\Coding\ForUni\IntroToProgramming\Second\Second\bin\Debug\net6.0\Second.deps.json
+D:\Coding\ForUni\IntroToProgramming\Second\Second\bin\Debug\net6.0\Second.runtimeconfig.json
+D:\Coding\ForUni\IntroToProgramming\Second\Second\bin\Debug\net6.0\Second.dll
+D:\Coding\ForUni\IntroToProgramming\Second\Second\bin\Debug\net6.0\Second.pdb
+D:\Coding\ForUni\IntroToProgramming\Second\Second\obj\Debug\net6.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ForUni\IntroToProgramming\Second\Second\obj\Debug\net6.0\Second.AssemblyInfoInputs.cache
+D:\Coding\ForUni\IntroToProgramming\Second\Second\obj\Debug\net6.0\Second.AssemblyInfo.cs
+D:\Coding\ForUni\IntroToProgramming\Second\Second\obj\Debug\net6.0\Second.csproj.CoreCompileInputs.cache
+D:\Coding\ForUni\IntroToProgramming\Second\Second\obj\Debug\net6.0\Second.dll
+D:\Coding\ForUni\IntroToProgramming\Second\Second\obj\Debug\net6.0\refint\Second.dll
+D:\Coding\ForUni\IntroToProgramming\Second\Second\obj\Debug\net6.0\Second.pdb
+D:\Coding\ForUni\IntroToProgramming\Second\Second\obj\Debug\net6.0\Second.genruntimeconfig.cache
+D:\Coding\ForUni\IntroToProgramming\Second\Second\obj\Debug\net6.0\ref\Second.dll

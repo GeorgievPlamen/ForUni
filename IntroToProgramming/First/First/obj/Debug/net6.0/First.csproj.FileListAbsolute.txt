@@ -1,0 +1,14 @@
+D:\Coding\ForUni\IntroToProgramming\First\First\bin\Debug\net6.0\First.exe
+D:\Coding\ForUni\IntroToProgramming\First\First\bin\Debug\net6.0\First.deps.json
+D:\Coding\ForUni\IntroToProgramming\First\First\bin\Debug\net6.0\First.runtimeconfig.json
+D:\Coding\ForUni\IntroToProgramming\First\First\bin\Debug\net6.0\First.dll
+D:\Coding\ForUni\IntroToProgramming\First\First\bin\Debug\net6.0\First.pdb
+D:\Coding\ForUni\IntroToProgramming\First\First\obj\Debug\net6.0\First.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ForUni\IntroToProgramming\First\First\obj\Debug\net6.0\First.AssemblyInfoInputs.cache
+D:\Coding\ForUni\IntroToProgramming\First\First\obj\Debug\net6.0\First.AssemblyInfo.cs
+D:\Coding\ForUni\IntroToProgramming\First\First\obj\Debug\net6.0\First.csproj.CoreCompileInputs.cache
+D:\Coding\ForUni\IntroToProgramming\First\First\obj\Debug\net6.0\First.dll
+D:\Coding\ForUni\IntroToProgramming\First\First\obj\Debug\net6.0\refint\First.dll
+D:\Coding\ForUni\IntroToProgramming\First\First\obj\Debug\net6.0\First.pdb
+D:\Coding\ForUni\IntroToProgramming\First\First\obj\Debug\net6.0\First.genruntimeconfig.cache
+D:\Coding\ForUni\IntroToProgramming\First\First\obj\Debug\net6.0\ref\First.dll

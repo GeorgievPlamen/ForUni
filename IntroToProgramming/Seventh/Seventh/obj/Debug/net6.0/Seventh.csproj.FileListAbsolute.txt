@@ -1,0 +1,14 @@
+D:\Coding\ForUni\IntroToProgramming\Seventh\Seventh\bin\Debug\net6.0\Seventh.exe
+D:\Coding\ForUni\IntroToProgramming\Seventh\Seventh\bin\Debug\net6.0\Seventh.deps.json
+D:\Coding\ForUni\IntroToProgramming\Seventh\Seventh\bin\Debug\net6.0\Seventh.runtimeconfig.json
+D:\Coding\ForUni\IntroToProgramming\Seventh\Seventh\bin\Debug\net6.0\Seventh.dll
+D:\Coding\ForUni\IntroToProgramming\Seventh\Seventh\bin\Debug\net6.0\Seventh.pdb
+D:\Coding\ForUni\IntroToProgramming\Seventh\Seventh\obj\Debug\net6.0\Seventh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ForUni\IntroToProgramming\Seventh\Seventh\obj\Debug\net6.0\Seventh.AssemblyInfoInputs.cache
+D:\Coding\ForUni\IntroToProgramming\Seventh\Seventh\obj\Debug\net6.0\Seventh.AssemblyInfo.cs
+D:\Coding\ForUni\IntroToProgramming\Seventh\Seventh\obj\Debug\net6.0\Seventh.csproj.CoreCompileInputs.cache
+D:\Coding\ForUni\IntroToProgramming\Seventh\Seventh\obj\Debug\net6.0\Seventh.dll
+D:\Coding\ForUni\IntroToProgramming\Seventh\Seventh\obj\Debug\net6.0\refint\Seventh.dll
+D:\Coding\ForUni\IntroToProgramming\Seventh\Seventh\obj\Debug\net6.0\Seventh.pdb
+D:\Coding\ForUni\IntroToProgramming\Seventh\Seventh\obj\Debug\net6.0\Seventh.genruntimeconfig.cache
+D:\Coding\ForUni\IntroToProgramming\Seventh\Seventh\obj\Debug\net6.0\ref\Seventh.dll

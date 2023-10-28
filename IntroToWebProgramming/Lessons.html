@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kapana Guitar Center</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <script src="scripts/main.js"></script>
+</head>
+<body>
+    <header>
+        <div class="menu-wrapper">
+            <div class="mobile">
+                <button class="menu-button" onclick="menu()">Menu</button>
+            </div>
+            <nav id="nav">
+                <ul>
+                    <li><a href="/" onclick="menuOff()">Home</a></li>
+                    <li><a href="/Index.html#Main" onclick="menuOff()">About</a></li>
+                    <li><a href="/Index.html#Products" onclick="menuOff()">Products</a></li>
+                    <li><a href="Lessons.html" onclick="menuOff()">Lessons</a></li>
+                    <li><a href="/Index.html#Find-Us" onclick="menuOff()">Contact Us</a></li>
+                </ul>
+                </nav>
+        </div>
+        <h1>Kapana Guitar Center</h1>
+        <section class="hero">
+            <img  class="hero-img" src="images/guitarlogo.png" alt="Guitar logo">
+        </section>
+        </header>
+<main>
+    <section id="Lessons-Form">
+        <h2>Lessons Sign Up</h2>
+        <form name="Lessons-Signup" action="/Lessons.html" onsubmit="return validateForm()" method="get"> <!-- method is get, so page doesn't break. -->
+            <label for="First-Name" class="form-label">First Name</label>
+            <input type="text" id="First-Name" name="first-Name" required>
+            <label for="Last-Name" class="form-label">Last Name</label>
+            <input type="text" id="Last-Name" name="last-Name" required>
+            <label for="email" class="form-label">Email</label>
+            <input type="email" id="email" name="email" required>
+            <label for="Skill" class="form-label">What's your player level?</label>
+            <select id="Skill" name="Skill" required>
+                <option disabled selected value="">Choose</option>
+                <option value="1">Beginner</option>
+                <option value="2">Intermediate</option>
+                <option value="3">Advanced</option>
+                <option value="4">Virtuoso</option>
+            </select>
+            <p>Which genres would you like to learn?</p>
+            <div class="choices-container">
+                <div class="choices-item">
+                    <input type="checkbox" name="Blues" id="Blues">
+                    <label for="Blues" class="form-label">Blues</label>
+                </div>
+                <div class="choices-item">
+                    <input type="checkbox" name="Jazz" id="Jazz">
+                    <label for="Jazz" class="form-label" >Jazz</label>
+                </div>
+                <div class="choices-item">
+                    <input type="checkbox" name="Country" id="Country">
+                    <label for="Country" class="form-label" >Country</label>
+                </div>
+                <div class="choices-item">
+                    <input type="checkbox" name="Rock" id="Rock">
+                    <label for="Rock" class="form-label" >Rock</label>
+                </div>
+                <div class="choices-item">
+                    <input type="checkbox" name="Funk" id="Funk">
+                    <label for="Funk" class="form-label" >Funk</label>
+                </div>
+                <div class="choices-item">
+                    <input type="checkbox" name="Pop" id="Pop">
+                    <label for="Pop" class="form-label" >Pop</label>
+                </div>
+                <div class="choices-item">
+                    <input type="checkbox" name="Metal" id="Metal">
+                    <label for="Metal" class="form-label" >Metal</label>
+                </div>
+                <div class="choices-item">
+                    <input type="checkbox" name="Classical" id="Classical">
+                    <label for="Classical" class="form-label" >Classical</label>
+                </div>
+            </div>
+            <p>Have you taken lessons before?</p>
+            <div class="choices-container">
+                <div class="choices-item">
+                    <input type="radio" name="taken-lessons" id="taken-lessons-yes" value="yes" required>
+                    <label for="taken-lessons-yes">Yes</label>
+                </div>
+                <div class="choices-item">
+                    <input type="radio" name="taken-lessons" id="taken-lessons-no" value="no" required>
+                    <label for="taken-lessons-no">No</label>
+                </div>
+            </div>
+            <label for="student-info">Tell us Something About Yourself</label>
+            <textarea name="student-info" id="student-info" cols="30" rows="5" placeholder="I'd love to play in a band..."></textarea>
+            <button type="submit">Sign Up</button>
+            <button type="reset">Clear</button>
+        </form>
+    </section>
+</main>
+<footer id="Find-Us">
+    <div class="Contact">
+        <a class="call-us" href="tel:+359-88-8888-888">Call Us</a>
+    </div>
+    <div class="copy">
+        <p>&copy;Plamen Georgiev</p>
+    </div>
+    <div>
+        <address>Middle of Kapana, Plovdiv</address>
+    </div>
+</footer>
+</body>
+</html>

@@ -48,4 +48,26 @@
     <string name="sample_place_meta">2.4 km away • Easy • 1h 20m</string>
 
     <string name="cd_back">Go back</string>
+
+    <!-- Details -->
+    <string name="details_title">Details</string>
+    <string name="cd_details_image">Place image</string>
+    <string name="details_quick_info">Quick info</string>
+
+    <string name="sample_place_location">Vitosha Mountain • Sofia</string>
+
+    <string name="details_stat_distance_label">Distance</string>
+    <string name="details_stat_distance_value">4.8 km</string>
+    <string name="details_stat_time_label">Time</string>
+    <string name="details_stat_time_value">1h 20m</string>
+    <string name="details_stat_difficulty_label">Difficulty</string>
+    <string name="details_stat_difficulty_value">Easy</string>
+    <string name="details_stat_elevation_label">Elevation gain</string>
+    <string name="details_stat_elevation_value">+320 m</string>
+
+    <string name="details_description_title">About</string>
+    <string name="details_description_body">A short and scenic hike near Sofia leading to Boyana Waterfall. The trail goes through forest paths with fresh air and beautiful views. Best visited in spring and early summer when the water flow is strongest.</string>
+
+    <string name="details_show_on_map">Show on map</string>
+    <string name="details_add_favorite">Add to favorites</string>
 </resources>

@@ -70,4 +70,27 @@
 
     <string name="details_show_on_map">Show on map</string>
     <string name="details_add_favorite">Add to favorites</string>
+
+    <!-- List / Filters -->
+    <string name="list_waterfalls_title">Waterfalls</string>
+    <string name="filters_title">Filters</string>
+    <string name="filter_distance">Distance</string>
+    <string name="filter_distance_value">Any</string>
+    <string name="filter_difficulty">Difficulty</string>
+    <string name="filter_difficulty_value">Any</string>
+    <string name="filter_time">Time</string>
+    <string name="filter_time_value">Any</string>
+    <string name="results_title">Results</string>
+
+    <string name="cd_place_image">Place thumbnail</string>
+
+    <!-- Items -->
+    <string name="boyana_name">Boyana Waterfall</string>
+    <string name="boyana_meta">Vitosha • Sofia • 2.4 km • Easy</string>
+
+    <string name="krushuna_name">Krushuna Waterfalls</string>
+    <string name="krushuna_meta">Lovech • 178 km • Easy</string>
+
+    <string name="raiski_name">Raisko Praskalo</string>
+    <string name="raiski_meta">Central Balkan • 210 km • Medium</string>
 </resources>

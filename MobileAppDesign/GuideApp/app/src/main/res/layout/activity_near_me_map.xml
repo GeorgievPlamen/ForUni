@@ -21,7 +21,7 @@
             android:layout_height="match_parent"
             android:contentDescription="@string/cd_map"
             android:scaleType="centerCrop"
-            android:src="@drawable/boyana_waterfall" />
+            android:src="@drawable/boyana_waterfall_map_static" />
 
     </FrameLayout>
 

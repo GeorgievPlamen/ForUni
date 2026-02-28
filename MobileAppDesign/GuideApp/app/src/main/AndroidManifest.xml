@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GuideApp">
         <activity
+            android:name=".List.WaterfallsListActivity"
+            android:exported="false" />
+        <activity
             android:name=".Details.DetailsActivity"
             android:exported="false" />
         <activity

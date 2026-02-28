@@ -12,7 +12,8 @@ import com.example.guideapp.R;
 import android.content.Intent;
 import android.widget.Button;
 import com.example.guideapp.Map.NearMeMapActivity;
-
+import android.content.Intent;
+import com.example.guideapp.List.WaterfallsListActivity;
 public class ExploreActivity extends AppCompatActivity {
 
     @Override
@@ -28,6 +29,11 @@ public class ExploreActivity extends AppCompatActivity {
         Button nearMe = findViewById(R.id.near_me_button);
         nearMe.setOnClickListener(v -> {
             Intent intent = new Intent(ExploreActivity.this, NearMeMapActivity.class);
+            startActivity(intent);
+        });
+
+        findViewById(R.id.cat_waterfalls).setOnClickListener(v -> {
+            Intent intent = new Intent(ExploreActivity.this, WaterfallsListActivity.class);
             startActivity(intent);
         });
     }

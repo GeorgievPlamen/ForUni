@@ -1,14 +1,19 @@
 <resources>
+    <!-- App -->
     <string name="app_name">Balkan Trail</string>
-    <string name="slogan_name">Discover Bulgaria outdoors.</string>
+
+    <!-- Common -->
+    <string name="cd_back">Go back</string>
+    <string name="view_details">View details</string>
 
     <!-- Welcome / Login -->
-    <string name="sign_in">Sign in</string>
     <string name="background_content_description">Beautiful image of a hiker in the mountains</string>
-    <string name="passwordHint">Password</string>
     <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="slogan_name">Discover Bulgaria outdoors.</string>
 
-    <!-- Explore screen -->
+    <!-- Explore -->
     <string name="explore_title">Explore Bulgaria</string>
     <string name="explore_subtitle">Trails, peaks, caves and parks — all in one place.</string>
     <string name="explore_search_hint">Search places (e.g. Musala, Devetashka cave)</string>
@@ -16,45 +21,37 @@
     <string name="explore_categories_title">Categories</string>
 
     <!-- Categories -->
-    <string name="category_trails">Trails</string>
-    <string name="category_peaks">Peaks</string>
-    <string name="category_parks">Parks</string>
     <string name="category_caves">Caves</string>
-    <string name="category_waterfalls">Waterfalls</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_peaks">Peaks</string>
+    <string name="category_trails">Trails</string>
     <string name="category_viewpoints">Viewpoints</string>
+    <string name="category_waterfalls">Waterfalls</string>
 
-    <!-- Content descriptions for icons -->
-    <string name="cd_trails">Trails category</string>
-    <string name="cd_peaks">Peaks category</string>
-    <string name="cd_parks">Parks category</string>
+    <!-- Category content descriptions -->
     <string name="cd_caves">Caves category</string>
-    <string name="cd_waterfalls">Waterfalls category</string>
+    <string name="cd_parks">Parks category</string>
+    <string name="cd_peaks">Peaks category</string>
+    <string name="cd_trails">Trails category</string>
     <string name="cd_viewpoints">Viewpoints category</string>
+    <string name="cd_waterfalls">Waterfalls category</string>
 
-    <!-- Optional "Popular" section -->
-    <string name="explore_popular_title">Popular</string>
-    <string name="explore_popular_subtitle">Top picks for first-time visitors.</string>
-
+    <!-- Map / Near Me -->
     <string name="map_title">Near Me</string>
-    <string name="view_details">View details</string>
-
-    <string name="cd_map">Map view</string>
-    <string name="cd_pin">Selected location pin</string>
     <string name="cd_filter">Filter places</string>
+    <string name="cd_map">Map view</string>
     <string name="cd_my_location">Go to my location</string>
+    <string name="cd_pin">Selected location pin</string>
 
-    <!-- Sample content for the bottom card -->
+    <!-- Shared sample place (used in Map + Details) -->
     <string name="sample_place_name">Boyana Waterfall</string>
+    <string name="sample_place_location">Vitosha Mountain • Sofia</string>
     <string name="sample_place_meta">2.4 km away • Easy • 1h 20m</string>
-
-    <string name="cd_back">Go back</string>
 
     <!-- Details -->
     <string name="details_title">Details</string>
     <string name="cd_details_image">Place image</string>
     <string name="details_quick_info">Quick info</string>
-
-    <string name="sample_place_location">Vitosha Mountain • Sofia</string>
 
     <string name="details_stat_distance_label">Distance</string>
     <string name="details_stat_distance_value">4.8 km</string>
@@ -74,17 +71,18 @@
     <!-- List / Filters -->
     <string name="list_waterfalls_title">Waterfalls</string>
     <string name="filters_title">Filters</string>
+    <string name="results_title">Results</string>
+
     <string name="filter_distance">Distance</string>
     <string name="filter_distance_value">Any</string>
     <string name="filter_difficulty">Difficulty</string>
     <string name="filter_difficulty_value">Any</string>
     <string name="filter_time">Time</string>
     <string name="filter_time_value">Any</string>
-    <string name="results_title">Results</string>
 
     <string name="cd_place_image">Place thumbnail</string>
 
-    <!-- Items -->
+    <!-- Waterfalls items -->
     <string name="boyana_name">Boyana Waterfall</string>
     <string name="boyana_meta">Vitosha • Sofia • 2.4 km • Easy</string>
 

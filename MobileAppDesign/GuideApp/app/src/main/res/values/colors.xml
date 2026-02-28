@@ -1,10 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary">#1B5E20</color>
-    <color name="secondary">#2E7D32</color>
+    <!-- Brand / Teals (from your splash SVG) -->
+    <color name="primary">#004C5B</color>
+    <color name="primaryDark">#004756</color>
+
+    <color name="secondary">#007380</color>
+    <color name="secondaryLight">#0098A5</color>
+
+    <!-- Nature Greens (from SVG) -->
+    <color name="successGreen">#43975C</color>
+    <color name="successGreenLight">#5ABD78</color>
+
+    <!-- CTA (keep contrast like your button) -->
     <color name="accent">#FFB300</color>
-    <color name="background">#F6F8F5</color>
+    <!-- Optional alternative CTA -->
+    <color name="accentAlt">#F6B700</color>
+
+    <!-- Surfaces -->
+    <color name="background">#D3EAEE</color>
     <color name="surface">#FFFFFF</color>
-    <color name="textPrimary">#1C1C1C</color>
-    <color name="textSecondary">#5F6B62</color>
+    <color name="surfaceAlt">#F6F6F6</color>
+    <color name="outline">#A9DDE7</color>
+
+    <!-- Text -->
+    <color name="textPrimary">#004756</color>
+    <color name="textSecondary">#005A68</color>
 </resources>

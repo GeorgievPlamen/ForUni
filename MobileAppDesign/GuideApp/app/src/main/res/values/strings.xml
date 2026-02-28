@@ -1,8 +1,51 @@
 <resources>
     <string name="app_name">Balkan Trail</string>
     <string name="slogan_name">Discover Bulgaria outdoors.</string>
+
+    <!-- Welcome / Login -->
     <string name="sign_in">Sign in</string>
     <string name="background_content_description">Beautiful image of a hiker in the mountains</string>
     <string name="passwordHint">Password</string>
     <string name="emailHint">Email</string>
+
+    <!-- Explore screen -->
+    <string name="explore_title">Explore Bulgaria</string>
+    <string name="explore_subtitle">Trails, peaks, caves and parks — all in one place.</string>
+    <string name="explore_search_hint">Search places (e.g. Musala, Devetashka cave)</string>
+    <string name="explore_near_me">Find near me</string>
+    <string name="explore_categories_title">Categories</string>
+
+    <!-- Categories -->
+    <string name="category_trails">Trails</string>
+    <string name="category_peaks">Peaks</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_caves">Caves</string>
+    <string name="category_waterfalls">Waterfalls</string>
+    <string name="category_viewpoints">Viewpoints</string>
+
+    <!-- Content descriptions for icons -->
+    <string name="cd_trails">Trails category</string>
+    <string name="cd_peaks">Peaks category</string>
+    <string name="cd_parks">Parks category</string>
+    <string name="cd_caves">Caves category</string>
+    <string name="cd_waterfalls">Waterfalls category</string>
+    <string name="cd_viewpoints">Viewpoints category</string>
+
+    <!-- Optional "Popular" section -->
+    <string name="explore_popular_title">Popular</string>
+    <string name="explore_popular_subtitle">Top picks for first-time visitors.</string>
+
+    <string name="map_title">Near Me</string>
+    <string name="view_details">View details</string>
+
+    <string name="cd_map">Map view</string>
+    <string name="cd_pin">Selected location pin</string>
+    <string name="cd_filter">Filter places</string>
+    <string name="cd_my_location">Go to my location</string>
+
+    <!-- Sample content for the bottom card -->
+    <string name="sample_place_name">Boyana Waterfall</string>
+    <string name="sample_place_meta">2.4 km away • Easy • 1h 20m</string>
+
+    <string name="cd_back">Go back</string>
 </resources>

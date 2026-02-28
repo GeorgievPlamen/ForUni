@@ -929,7 +929,7 @@
                     <item android:color="#FF004C5B" android:offset="0.12"/>
                               
                     <item android:color="#FF005A68" android:offset="0.32"/>
-                              
+
                     <item android:color="#FF007380" android:offset="0.58"/>
                               
                     <item android:color="#FF0098A5" android:offset="0.87"/>
@@ -983,7 +983,7 @@
             <aapt:attr name="android:fillColor">
                         
                 <gradient android:endX="421.88" android:endY="849.6" android:startX="421.88" android:startY="447.76" android:type="linear">
-                              
+
                     <item android:color="#FF004756" android:offset="0"/>
                               
                     <item android:color="#FF004C5B" android:offset="0.12"/>

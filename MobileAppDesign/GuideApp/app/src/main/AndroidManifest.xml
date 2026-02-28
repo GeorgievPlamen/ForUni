@@ -12,7 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GuideApp">
         <activity
-            android:name=".MainActivity"
+            android:name=".Map.NearMeMapActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Explore.ExploreActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Welcome.WelcomeScreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,6 +26,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />

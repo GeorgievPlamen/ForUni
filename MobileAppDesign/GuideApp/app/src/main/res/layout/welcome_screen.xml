@@ -5,7 +5,7 @@
     android:id="@+id/welcome_email"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Common.WelcomeScreen">
+    tools:context=".Welcome.WelcomeScreen">
 
     <ImageView
         android:id="@+id/welcome_background"
@@ -41,43 +41,55 @@
         app:layout_constraintTop_toBottomOf="@+id/app_name" />
 
     <EditText
-        android:autofillHints="emailAddress"
         android:id="@+id/textEmailAddress"
-        android:layout_width="260dp"
-        android:layout_height="60dp"
-        android:layout_marginBottom="20dp"
-        android:ems="10"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="16dp"
+        android:autofillHints="emailAddress"
+        android:backgroundTint="@color/surface"
         android:hint="@string/emailHint"
         android:inputType="textEmailAddress"
-        android:textColorHint="@color/textSecondary"
+        android:minHeight="56dp"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@color/background"
         app:layout_constraintBottom_toTopOf="@+id/welcome_password"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        android:backgroundTint="@android:color/white"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
-        android:autofillHints="password"
         android:id="@+id/welcome_password"
-        android:layout_width="260dp"
-        android:layout_height="60dp"
-        android:layout_marginBottom="40dp"
-        android:ems="10"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="32dp"
+        android:autofillHints="password"
+        android:backgroundTint="@color/surface"
         android:hint="@string/passwordHint"
         android:inputType="textPassword"
-        android:textColorHint="@color/textSecondary"
+        android:minHeight="56dp"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@color/background"
         app:layout_constraintBottom_toTopOf="@+id/signin_button"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        android:backgroundTint="@android:color/white"/>
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/signin_button"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="60dp"
-        android:width="200dp"
+        android:layout_marginStart="52dp"
+        android:layout_marginEnd="52dp"
+        android:layout_marginBottom="80dp"
         android:backgroundTint="@color/accent"
         android:text="@string/sign_in"
+        android:minHeight="48dp"
         android:textColor="@color/textPrimary"
         app:layout_constraintBottom_toBottomOf="@+id/welcome_background"
         app:layout_constraintEnd_toEndOf="parent"

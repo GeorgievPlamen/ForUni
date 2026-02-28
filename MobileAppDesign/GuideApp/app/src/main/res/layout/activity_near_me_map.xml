@@ -8,13 +8,11 @@
     android:background="@color/background"
     tools:context=".Map.NearMeMapActivity">
 
-    <!-- Map layer (FrameLayout so we can overlay pins later if we want) -->
     <FrameLayout
         android:id="@+id/map_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <!-- Fake map image (replace with your own drawable) -->
         <ImageView
             android:id="@+id/map_image"
             android:layout_width="match_parent"
@@ -25,7 +23,6 @@
 
     </FrameLayout>
 
-    <!-- Top bar with Back button (replaces the old TextView top bar) -->
     <RelativeLayout
         android:id="@+id/top_bar"
         android:layout_width="match_parent"
@@ -72,7 +69,6 @@
         android:src="@drawable/ic_filter"
         app:tint="@color/primary" />
 
-    <!-- My location button (below filter) -->
     <ImageButton
         android:id="@+id/btn_my_location"
         android:layout_width="48dp"

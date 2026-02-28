@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">GuideApp</string>
-    <string name="logo_name">Get A Way</string>
-    <string name="slogan_name">We will help you to find your way!</string>
+    <string name="app_name">Balkan Trail</string>
+    <string name="slogan_name">Discover Bulgaria outdoors.</string>
+    <string name="sign_in">Sign in</string>
+    <string name="background_content_description">Beautiful image of a hiker in the mountains</string>
+    <string name="passwordHint">Password</string>
+    <string name="emailHint">Email</string>
 </resources>
